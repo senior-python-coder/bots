@@ -132,4 +132,4 @@ Create an issue on the GitHub repo or contact the bot owner.
 
 ---
 
-**License:** MIT
+**License:** ###PTB
